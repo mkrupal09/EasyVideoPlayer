@@ -1,6 +1,11 @@
 # Easy Video Player
 
+![](images/logo.png)
+
+
 Video player use to play local and network video in android
+
+
 
 ![](images/preview.png)
 ![](images/doubletap.png)
