@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dtp_yt_animation_0">#00FFFFFF</color>
+    <color name="dtp_yt_animation_1">#22FFFFFF</color>
+    <color name="dtp_yt_animation_2">#99FFFFFF</color>
+    <color name="dtp_yt_animation_3">#FFFFFFFF</color>
+
+    <color name="dtp_overlay_dim">#77000000</color>
+    <color name="red">#FF0000</color>
+    <color name="black_translucent">#60000000</color>
+    <color name="vp_colorPrimary">#303700B3</color>
+    <color name="vp_colorPrimaryDark">#3700B3</color>
+    <color name="vp_colorAccent">#03DAC5</color>
+    <color name="vp_black_bg">#55000000</color>
+</resources>

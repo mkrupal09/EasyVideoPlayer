@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoPlayerManager</string>
+    <string name="permission_need_message">App needs your permission to access the gallery to select video, Allow the permission from the Settings menu by tapping below.</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="press_here_to_play_video">Press here to play video</string>
+</resources>
