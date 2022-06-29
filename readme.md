@@ -1,10 +1,6 @@
-# Easy Video Player
+
 
 ![](images/easyplayer.png)
-
-
-Video player use to play local and network video in android
-
 
 
 ![](images/preview.png)
